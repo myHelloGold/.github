@@ -1,4 +1,4 @@
-name: Octo Organization CI
+name: HG Serverless Workflow
 
 on:
   push:

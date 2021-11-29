@@ -1,0 +1,13 @@
+{
+    "name": "HG Serverless Workflow",
+    "description": "Serverless CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
